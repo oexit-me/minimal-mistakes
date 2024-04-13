@@ -16,20 +16,6 @@ title: Multimedia
 
 # Multimedia
 
-### ÖXIT-Kandidat Ebner: Nachteile der EU größer als Vorteile
-
-<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
-    <iframe
-        width="640"
-        height="360"
-        src="https://gegenstimme.tv/videos/embed/bb11727d-ee64-4710-81f3-00a06f185b25?title=0&warningTitle=0&peertubeLink=0"
-        frameborder="0"
-        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen></iframe>
-    >
-    </iframe>
-</div>
-
 ### ÖXIT Bündnis EU-Wahl 2024
 
 <video width="100%" controls="controls" poster="https://my-tube.tv/wp-content/uploads/2024/03/DDÖxit.jpg">

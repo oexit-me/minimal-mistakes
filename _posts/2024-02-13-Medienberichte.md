@@ -16,6 +16,19 @@ title: Medien
 
 # Medienberichte
 
+### ÖXIT-Kandidat Ebner: Nachteile der EU größer als Vorteile
+
+<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
+    <iframe
+        width="640"
+        height="360"
+        src="https://gegenstimme.tv/videos/embed/bb11727d-ee64-4710-81f3-00a06f185b25?title=0&warningTitle=0&peertubeLink=0"
+        frameborder="0"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
+    >
+    </iframe>
+</div>
 
 * [![Puls 24]({{site.url}}{{site.baseurl}}/assets/images/2024-03-30-Puls24-Logo.svg){:width="33%"} 2024-03-26 EU-Austrittsbündnis Öxit sammelt Unterschriften](https://www.puls24.at/news/politik/eu-austrittsbuendnis-oexit-sammelt-unterschriften/324292)
 * [![Salzburger Nachrichten]({{site.url}}{{site.baseurl}}/assets/images/2024-03-30-Salzburger-Nachrichten-Logo.svg){:width="33%"} 2024-03-26 EU-Austrittsbündnis Öxit sammelt Unterschriften](https://www.sn.at/politik/innenpolitik/eu-austrittsbuendnis-oexit-unterschriften-155726470)
