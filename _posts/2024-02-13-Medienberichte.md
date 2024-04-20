@@ -16,6 +16,9 @@ title: Medien
 
 # Medienberichte
 
+* [![tkp](https://tkp.at/wp-content/uploads/2022/04/logo.svg){:width="33%"} 2024-04-19 Zehn Fragen an unsere potentiellen EU-Vertreter](https://tkp.at/2024/04/19/zehn-fragen-an-unsere-potentiellen-eu-vertreter/)
+* [![Puls 24]({{site.url}}{{site.baseurl}}/assets/images/2024-03-30-Puls24-Logo.svg){:width="33%"} 2024-04-18 Heiß Umfehdet: Wäre Österreich ohne EU besser dran?](https://www.puls24.at/video/heiss-umfehdet/heiss-umfehdet-vom-18042024/v1av5f7in6yvr)
+
 ### ÖXIT-Kandidat Ebner: Nachteile der EU größer als Vorteile
 
 <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
