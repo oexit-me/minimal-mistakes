@@ -2,8 +2,6 @@
 main:
   - title: Über uns
     url: /ueber.html
-  - title: Programm
-    url: /programm.html
   - title: Multimedia
     url: /multimedia.html
   - title: Medienberichte
