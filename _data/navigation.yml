@@ -6,8 +6,6 @@ main:
     url: /multimedia.html
   - title: Medienberichte
     url: /medienberichte.html
-  - title: Medien
-    url: /medien.html
   - title: Impressum
     url: /impressum.html
 
