@@ -15,7 +15,7 @@ author_profile: false
 
 ### Impressum
 
-Für den Inhalt verantwortlich: Oliver Hoffmann, Karolinengasse 31, 1040 Wien, Österreich<br />
+Für den Inhalt verantwortlich: Mag. Christian Ebner, Gerlgasse 2, 1030 Wien, Österreich<br />
 <br />
 
 ### Verwendung personenbezogener Daten
