@@ -55,6 +55,5 @@ title: Medien
 * [![Kronen Zeitung](https://www.krone.at/images/2dcb23c.svg){:width="10%"} 2024-02-29 EU-Wahl: Austrittsbündnis Öxit will antreten](https://www.krone.at/3273334)
 * [![Kleine Zeitung]({{site.url}}{{site.baseurl}}/assets/images/2024-03-03-Kleine-Zeitung-Logo.svg){:width="10%"} 2024-02-29 Öxit-Bündnis von Kleinstparteien will bei EU-Wahl antreten](https://www.kleinezeitung.at/politik/innenpolitik/18228841/oexit-buendnis-von-kleinstparteien-will-bei-eu-wahl-antreten)
 * [![OE24]({{site.url}}{{site.baseurl}}/assets/images/2024-03-05-OE24-Logo.svg){:width="10%"} 2024-02-29 Öxit-Partei verlangt Austritt aus der EU](https://www.oe24.at/oesterreich/politik/parteien/oexit-partei-verlangt-austritt-aus-der-eu/587365696)
-
-
+* [Pressemitteilung 29. Feb. 2024]({{site.url}}{{site.baseurl}}/2024-02-29-ÖXIT-EU2024.pdf)
 
